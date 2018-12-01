@@ -173,8 +173,8 @@
                 </g>
             </g>
             <g id="Box-Image" serif:id="Box Image" transform="matrix(1,0,0,1,0,5.30855)">
-                <g transform="matrix(0.953039,0,0,1.03179,4.43938,-8.77632)">
-                    <rect x="64.721" y="167.936" width="239.122" height="236.261" style="fill:white;"/>
+                <g transform="matrix(0.960231,0,0,1.03957,3.71336,-10.9743)">
+                    <path d="M303.843,167.936L64.721,167.936L64.721,404.197L303.843,404.197L303.843,167.936Z" style="fill:white;"/>
                 </g>
                 <g id="Artwork" transform="matrix(0.34757,0,0,0.371544,39.3106,134.756)">
                     <path d="M242.04,39.79C239.67,39.72 237.29,39.62 234.92,39.72C237.72,36.88 239.11,38.04 242.04,39.79Z" style="fill:rgb(236,227,215);fill-rule:nonzero;"/>
